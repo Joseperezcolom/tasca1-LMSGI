@@ -8,5 +8,6 @@
   * Se subenlos archivos al repositorio de  GitHub 
 * Se usa raw.githack.com  veure html de GitHub
   * Se usa la url  "Use this URL for development" para ver la pagina web:
+  [enlace a raw.githack.com] (https://raw.githack.com/Joseperezcolom/tasca1-LMSGI/master/HTML.html)
   
 * Se edita README.md explicando lo realizado
