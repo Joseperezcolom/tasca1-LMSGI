@@ -11,4 +11,5 @@
   (https://raw.githack.com/Joseperezcolom/tasca1-LMSGI/master/HTML.html)
   
 * Se edita README.md explicando lo realizado
-¡[LOGO]( C:\Users\josep\Downloads\fp.jpg"
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
