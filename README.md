@@ -2,7 +2,7 @@
 ## Tarea n1 de la asignatura _LMSGI_
 ##### pasos_seguidos:
 * En esta tarea se suben tres archvos __rtf xml y html__
-* se crean documentos RTF, XML i HTML de ejemplo
+* se crean documentos __RTF, XML i HTML__ de ejemplo
 * se cambia la extension de los archivos
 * se llena el repositorio de GitHub 
   * Me registro en  Github
