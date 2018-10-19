@@ -1,3 +1,3 @@
 ###### tasca1-LMSGI
-###Tarea n1 de la asignatura _LMSGI
+### Tarea n1 de la asignatura _LMSGI_
 En esta tarea se deben subir tres archvos __rtf xml y html__
