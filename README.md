@@ -11,4 +11,4 @@
   (https://raw.githack.com/Joseperezcolom/tasca1-LMSGI/master/HTML.html)
   
 * Se edita README.md explicando lo realizado
-¡[LOGO]( C:\Users\josep\Downloads\fp.jpg
+¡[LOGO]( C:\Users\josep\Downloads\fp.jpg"
